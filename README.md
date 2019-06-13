@@ -10,9 +10,9 @@ Operating System: Ubuntu 18.04
 
 Text Editor: VIM
 
-GPU: NVIDIA GTX 1050 Ti
+GPU: NVIDIA GTX 1050 Ti, TITAN V, V100
 
-CUDA version: 9.1
+CUDA version: 10.0, 9.1
 
 ## Concepts covered in each video
 # Environment Setup
