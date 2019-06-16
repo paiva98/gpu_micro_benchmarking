@@ -108,7 +108,7 @@ int main(){
     // Starting number of elements is 4k
     int start = 1 << 12;
     // Ending size is 1G
-    int end = 1 << 30;
+    int end = 1 << 29;
     // Number of elements for each thread to load
     // Size of the array in bytes
     size_t bytes;
