@@ -1,5 +1,5 @@
 # GPU Micro-Benchmarking
-This repository contains all code from the YouTube series "GPU Micro-Benchmarking" by CoffeeBeforeArch.
+This repository contains all code from the YouTube series "GPU MicroBenchmarking" by CoffeeBeforeArch.
 
 ## Contact
 
